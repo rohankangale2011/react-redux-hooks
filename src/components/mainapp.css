@@ -1,0 +1,26 @@
+.main-app {
+  padding: 20px;
+}
+
+.main-app input {
+  margin: 0 10px;
+  padding: 10px;
+  border-radius: 2px;
+  border: 1px solid #ccc;
+}
+
+.main-app button {
+  padding: 10px 20px;
+  border: 1px solid #37aa6d;
+  background-color: #37aa6d;
+  border-radius: 2px;
+  color: #fff;
+}
+
+.main-app button:hover {
+  cursor: pointer;
+}
+
+.main-app .list-container {
+  padding: 10px;
+}
